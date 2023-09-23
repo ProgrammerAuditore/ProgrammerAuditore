@@ -1,5 +1,13 @@
 # 💫 About Me:
-Soy ingeniero en sistemas computaciones<br>especializado redes de comunicación y<br>desarrollo de aplicaciones móviles.<br><br>Soy responsable<br>Soy proactivo<br>Soy autodidacta<br>Soy honesto<br>Soy analítico
+Hola mucho gusto, yo me llamo Victor Jesus, soy un chico apasionado con la nuevas tecnologías, me gusta mucho aprender, me considero alguien autodidacta. Durante mi trabajo de ayudante de cocina he aprendido sobre la disciplina, la confianza, el trabajo en equipo y sobre todo a valorar el esfuerzo cada uno como individuo aporta por un objetivo en común.
+Actualmente me propuse a buscar lo que realmente me apasiona, que son: la ingeniería, programación, desarrollo de software, desarrollo de aplicaciones web, administrador de base de datos, etc.
+Desde entonces uno de mis grandes logros es finalizar mis estudios en una carrera que me apasiona y me gusta como lo es Ing. sistemas computaciones en Instituto Tecnológico José Mario Molina Enriques y Pasquel de Pto. Vallarta, Jal.
+He creado software, aplicaciones web, API, etc. que nunca imaginé que podría realizarlo.
+Estoy muy motivado y ansioso en empezar a desarrollar software de calidad y un gran equipo de trabajo, me siento capaz de dar el siguiente paso, es decir, trabajar en proyectos donde pueda apoyar, aportar, plantear, diseñar, implementar, documentar. Del mismo modo siento que tengo el rendimiento, la capacidad, la destreza, la habilidad, etc. para iniciar en el mundo de desarrollo de software.
+Finalmente espero pronto ser independiente, cumplir mis sueños, y tener más éxitos en mi carrera y en la industria.
+
+Atte.
+Victor J.
 
 
 ## 🌐 Socials:
